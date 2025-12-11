@@ -46,8 +46,8 @@ Le MCD représente les entités suivantes :
 - La relation **FOURNIR** porte l’attribut **PrixAchat**
 
 ### 📷 MCD (image)
-![MCD](screenshots/mcd.png)
+![MCD](screenchots/mcd.png)
 
 ### 📷 MPD (image)
-![MPD](screenshots/mld.png)
+![MPD](screenchots/mld.png)
 
